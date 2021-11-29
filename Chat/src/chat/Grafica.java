@@ -142,6 +142,7 @@ public class Grafica extends javax.swing.JFrame {
                 new Grafica().setVisible(true);
             }
         });
+        
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
